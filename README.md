@@ -12,7 +12,7 @@ This project includes the react ui as well as JSON-server for our mock backend
 
 In the project directory, you can run:
 
-### Run React dev server [http://localhost:3000] (http://localhost:3000) to view it in your browser.
+### Run React dev server (http://localhost:3000) to view it in your browser.
 
 ```
 `npm start`
