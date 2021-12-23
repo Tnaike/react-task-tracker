@@ -1,0 +1,39 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Pod Meeting",
+      "day": "21/12/2021 - 1:20PM",
+      "reminder": false,
+      "createdAt": "12/15/2021"
+    },
+    {
+      "id": 2,
+      "text": "Holiday Outing",
+      "day": "24/12/2021 - 11:00AM",
+      "reminder": true,
+      "createdAt": "12/18/2021"
+    },
+    {
+      "id": 3,
+      "text": "Family Gathering",
+      "day": "31/12/2021 - 12:30PM",
+      "reminder": false,
+      "createdAt": "12/20/2021"
+    },
+    {
+      "id": 4,
+      "text": "Discussion with My Cousin",
+      "day": "22/12/2021 - 12:00PM",
+      "reminder": true,
+      "createdAt": "12/20/2021"
+    },
+    {
+      "text": "Dad meeting",
+      "day": "24/12/2021 - 10:00AM",
+      "reminder": true,
+      "createdAt": "12/23/2021",
+      "id": 5
+    }
+  ]
+}
